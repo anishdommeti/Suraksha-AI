@@ -1,0 +1,66 @@
+[
+  {
+    "segment_id": "SEG-HYD-001",
+    "name": "Saidabad Main Arterial Road (NH-65 Spur)",
+    "road_type": "Primary Arterial",
+    "geometry": [
+      [17.3596, 78.5085],
+      [17.3610, 78.5090],
+      [17.3645, 78.5088],
+      [17.3685, 78.5075],
+      [17.3712, 78.5028],
+      [17.3735, 78.4965],
+      [17.3753, 78.4908]
+    ],
+    "lighting_status": "Adequate Central Sodium & LED",
+    "access_status": "Open Divided Carriageway",
+    "accident_risk_level": "MODERATE",
+    "blackspot_identified": false,
+    "source_name": "Hyderabad Traffic Police Corridor Classification",
+    "source_url": "https://htp.telangana.gov.in",
+    "last_updated": "2024-12-31"
+  },
+  {
+    "segment_id": "SEG-HYD-002",
+    "name": "Singareni Colony Interior Bypass",
+    "road_type": "Secondary Residential Collector",
+    "geometry": [
+      [17.3596, 78.5085],
+      [17.3615, 78.5060],
+      [17.3642, 78.5041],
+      [17.3661, 78.5015],
+      [17.3685, 78.4988],
+      [17.3698, 78.4962],
+      [17.3753, 78.4908]
+    ],
+    "lighting_status": "Intermittent / Deficient (GHMC Audit)",
+    "access_status": "Narrow Undivided Alleyway",
+    "accident_risk_level": "ELEVATED",
+    "blackspot_identified": true,
+    "source_name": "GHMC Darkness Survey & SHE Teams Hotspot Digest",
+    "source_url": "https://womensafetywing.telangana.gov.in",
+    "last_updated": "2024-11-30"
+  },
+  {
+    "segment_id": "SEG-HYD-003",
+    "name": "IS Sadan Junction to Saidabad Link Road",
+    "road_type": "Major Secondary Transit Corridor",
+    "geometry": [
+      [17.3596, 78.5085],
+      [17.3580, 78.5110],
+      [17.3620, 78.5125],
+      [17.3680, 78.5100],
+      [17.3720, 78.5030],
+      [17.3745, 78.4960],
+      [17.3753, 78.4908]
+    ],
+    "lighting_status": "Moderately Lit with Junction High-Masts",
+    "access_status": "Four-Lane Divided",
+    "accident_risk_level": "MODERATE",
+    "blackspot_identified": false,
+    "source_name": "Hyderabad Traffic Police Annual Audit",
+    "source_url": "https://htp.telangana.gov.in",
+    "last_updated": "2024-12-31"
+  }
+]
+

@@ -1,0 +1,75 @@
+[
+  {
+    "facility_id": "FAC-PS-001",
+    "facility_type": "POLICE_STATION",
+    "name": "Saidabad Police Station",
+    "jurisdiction": "Hyderabad City Police (East Zone)",
+    "latitude": 17.3682,
+    "longitude": 78.5052,
+    "contact_phone": "040-27854770 / 112",
+    "source_name": "Telangana Police Official Portal",
+    "source_url": "https://tspolice.gov.in",
+    "last_updated": "2024-12-31"
+  },
+  {
+    "facility_id": "FAC-PS-002",
+    "facility_type": "POLICE_STATION",
+    "name": "Malakpet Police Station",
+    "jurisdiction": "Hyderabad City Police (East Zone)",
+    "latitude": 17.3762,
+    "longitude": 78.4915,
+    "contact_phone": "040-27854772 / 112",
+    "source_name": "Telangana Police Official Portal",
+    "source_url": "https://tspolice.gov.in",
+    "last_updated": "2024-12-31"
+  },
+  {
+    "facility_id": "FAC-SHE-001",
+    "facility_type": "WOMEN_SAFETY_HUB",
+    "name": "SHE Teams Hyderabad Headquarters & Emergency Intervention Centre",
+    "jurisdiction": "Women Safety Wing, Telangana Police",
+    "latitude": 17.3985,
+    "longitude": 78.4720,
+    "contact_phone": "Dial 100 / 112 / WhatsApp: +91 94416 69888",
+    "source_name": "Telangana Women Safety Wing Official Directory",
+    "source_url": "https://womensafetywing.telangana.gov.in",
+    "last_updated": "2024-11-30"
+  },
+  {
+    "facility_id": "FAC-HOSP-001",
+    "facility_type": "HOSPITAL_EMERGENCY",
+    "name": "Area Hospital Malakpet (Govt 24x7 Emergency Trauma Centre)",
+    "jurisdiction": "Telangana Vaidya Vidhana Parishad",
+    "latitude": 17.3748,
+    "longitude": 78.4930,
+    "contact_phone": "040-24552433 / 108",
+    "source_name": "Telangana State Health Directory",
+    "source_url": "https://dhs.telangana.gov.in",
+    "last_updated": "2024-10-01"
+  },
+  {
+    "facility_id": "FAC-HOSP-002",
+    "facility_type": "HOSPITAL_EMERGENCY",
+    "name": "Osmania General Hospital (Tertiary Referral Trauma)",
+    "jurisdiction": "Directorate of Medical Education, Telangana",
+    "latitude": 17.3820,
+    "longitude": 78.4790,
+    "contact_phone": "040-24600121 / 108",
+    "source_name": "Telangana State Health Directory",
+    "source_url": "https://dhs.telangana.gov.in",
+    "last_updated": "2024-10-01"
+  },
+  {
+    "facility_id": "FAC-METRO-001",
+    "facility_type": "METRO_TRANSIT_STATION",
+    "name": "Malakpet Metro Station (Red Line Transit Hub)",
+    "jurisdiction": "Hyderabad Metro Rail Limited (HMRL)",
+    "latitude": 17.3753,
+    "longitude": 78.4908,
+    "contact_phone": "040-23332555",
+    "source_name": "L&T Metro Rail Hyderabad",
+    "source_url": "https://www.ltmetro.com",
+    "last_updated": "2024-12-31"
+  }
+]
+

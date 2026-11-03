@@ -1,0 +1,91 @@
+[
+  {
+    "source_id": "SRC-HYD-POL-01",
+    "name": "Hyderabad Traffic Police Annual Accident & Blackspot Audit",
+    "publisher": "Hyderabad City Police & Traffic Branch",
+    "url": "https://htp.telangana.gov.in",
+    "geographic_coverage": "Hyderabad Commissionerate, Telangana, India",
+    "available_categories": ["ROAD_ACCIDENT", "TRAFFIC_HAZARD", "ROAD_OBSTRUCTION"],
+    "reporting_period": "2023 - 2024",
+    "retrieval_date": "2026-10-28",
+    "last_updated": "2024-12-31",
+    "record_granularity": "road_segment_and_blackspot_corridor",
+    "license": "Government Open Data / Public Domain Police Statistical Release",
+    "known_limitations": "Many records are published as corridor blackspot aggregates rather than exact GPS points. Unregistered minor collisions may be excluded."
+  },
+  {
+    "source_id": "SRC-TS-SHE-02",
+    "name": "Telangana Police Women Safety Wing (SHE Teams) Safety Survey",
+    "publisher": "Women Safety Wing, Telangana State Police",
+    "url": "https://womensafetywing.telangana.gov.in",
+    "geographic_coverage": "Hyderabad, Cyberabad, and Rachakonda Commissionerates",
+    "available_categories": ["WOMEN_SAFETY", "HARASSMENT", "UNSAFE_OR_ISOLATED_AREA"],
+    "reporting_period": "2023 - 2024",
+    "retrieval_date": "2026-10-28",
+    "last_updated": "2024-11-30",
+    "record_granularity": "junction_and_corridor_level",
+    "license": "Public Safety Statistical Release",
+    "known_limitations": "Hotspot locations represent documented complaint density corridors and public transit hubs; exact perpetrator GPS coordinates are not disclosed to protect victim privacy."
+  },
+  {
+    "source_id": "SRC-OPENCITY-03",
+    "name": "OpenCity Urban Data Portal - Hyderabad Road Accidents Analysis",
+    "publisher": "OpenCity / Oorvani Foundation",
+    "url": "https://opencity.in/data/hyderabad-road-accidents-and-blackspots",
+    "geographic_coverage": "Greater Hyderabad Municipal Corporation Area",
+    "available_categories": ["ROAD_ACCIDENT", "TRAFFIC_HAZARD"],
+    "reporting_period": "2022 - 2024",
+    "retrieval_date": "2026-10-28",
+    "last_updated": "2024-09-15",
+    "record_granularity": "individual_incident_and_corridor",
+    "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "known_limitations": "Compiled from RTI queries and municipal traffic engineering notices. Timestamps may reflect FIR registration rather than exact time of collision."
+  },
+  {
+    "source_id": "SRC-GHMC-ELEC-04",
+    "name": "GHMC Street Lighting Darkness & Electrical Survey",
+    "publisher": "Greater Hyderabad Municipal Corporation (Electrical Wing)",
+    "url": "https://www.ghmc.gov.in",
+    "geographic_coverage": "Hyderabad South, East, and Central Municipal Zones",
+    "available_categories": ["POOR_STREET_LIGHTING", "ROAD_OBSTRUCTION"],
+    "reporting_period": "2024",
+    "retrieval_date": "2026-10-28",
+    "last_updated": "2024-10-15",
+    "record_granularity": "corridor_stretch_and_pole_cluster",
+    "license": "Civic Works Notice & Public Audit",
+    "known_limitations": "Reflects municipal audit rounds. Lighting faults are repaired progressively by GHMC maintenance teams."
+  },
+  {
+    "source_id": "SRC-NCRB-MHA-05",
+    "name": "NCRB Crime in India & Accidental Deaths & Suicides in India (ADSI)",
+    "publisher": "National Crime Records Bureau, Ministry of Home Affairs, Govt of India",
+    "url": "https://ncrb.gov.in",
+    "geographic_coverage": "Hyderabad City, Telangana State",
+    "available_categories": ["ROAD_ACCIDENT", "ASSAULT", "THEFT", "WOMEN_SAFETY"],
+    "reporting_period": "2022 - 2023",
+    "retrieval_date": "2026-10-28",
+    "last_updated": "2023-12-01",
+    "record_granularity": "city_and_police_station_area_aggregate",
+    "license": "National Open Government Data (data.gov.in)",
+    "known_limitations": "Published as jurisdictional aggregate counts. Station-level counts are mapped to police station precinct boundaries, not specific street coordinates."
+  },
+  {
+    "source_id": "SRC-COMM-APP-06",
+    "name": "SURAKSHA AI Community Incident Reporting System",
+    "publisher": "Community Commuters & Verified Field Auditors",
+    "url": "https://suraksha.ai/community",
+    "geographic_coverage": "Hyderabad Transit Corridors",
+    "available_categories": [
+      "ROAD_ACCIDENT", "TRAFFIC_HAZARD", "WOMEN_SAFETY", "HARASSMENT",
+      "ASSAULT", "THEFT", "POOR_STREET_LIGHTING", "UNSAFE_OR_ISOLATED_AREA",
+      "ROAD_OBSTRUCTION", "OTHER_PUBLIC_SAFETY"
+    ],
+    "reporting_period": "2024 - 2026",
+    "retrieval_date": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "record_granularity": "individual_incident",
+    "license": "Open Community Safety Contribution",
+    "known_limitations": "Unverified community reports are strictly marked PENDING and isolated from verified risk scores until reviewed by human auditors."
+  }
+]
+

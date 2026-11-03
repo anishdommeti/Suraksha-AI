@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SURAKSHA AI: Brand dark navy launch window theme to eliminate any white flash during startup -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@drawable/launch_background</item>
+        <item name="android:statusBarColor">@color/splash_navy</item>
+        <item name="android:navigationBarColor">@color/splash_navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <!-- Normal theme while Flutter initializes -->
+    <style name="NormalTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@color/splash_navy</item>
+        <item name="android:statusBarColor">@color/splash_navy</item>
+        <item name="android:navigationBarColor">@color/splash_navy</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

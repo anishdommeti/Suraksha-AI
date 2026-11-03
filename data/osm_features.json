@@ -1,0 +1,211 @@
+[
+  {
+    "osm_id": "osm_node_1001",
+    "element_type": "node",
+    "feature_category": "POLICE",
+    "name": "Saidabad Police Station",
+    "latitude": 17.3615,
+    "longitude": 78.5092,
+    "tags": {
+      "amenity": "police",
+      "operator": "Hyderabad City Police",
+      "addr:street": "Saidabad Main Rd"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_node_1002",
+    "element_type": "node",
+    "feature_category": "POLICE",
+    "name": "Malakpet Police Station",
+    "latitude": 17.3762,
+    "longitude": 78.4912,
+    "tags": {
+      "amenity": "police",
+      "operator": "Hyderabad City Police",
+      "addr:district": "Malakpet"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_node_1003",
+    "element_type": "node",
+    "feature_category": "POLICE",
+    "name": "Telangana SHE Teams HQ",
+    "latitude": 17.398,
+    "longitude": 78.472,
+    "tags": {
+      "amenity": "police",
+      "specialty": "women_safety",
+      "emergency": "1091"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_node_1004",
+    "element_type": "node",
+    "feature_category": "POLICE",
+    "name": "Charminar Police Station",
+    "latitude": 17.362,
+    "longitude": 78.474,
+    "tags": {
+      "amenity": "police",
+      "operator": "Hyderabad City Police"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_node_2001",
+    "element_type": "node",
+    "feature_category": "HOSPITAL",
+    "name": "Area Hospital Malakpet",
+    "latitude": 17.3755,
+    "longitude": 78.4905,
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes",
+      "operator": "Telangana Vaidya Vidhana Parishad"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_node_2002",
+    "element_type": "node",
+    "feature_category": "HOSPITAL",
+    "name": "Osmania General Hospital",
+    "latitude": 17.3732,
+    "longitude": 78.4776,
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes",
+      "trauma_center": "level_1"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_node_2003",
+    "element_type": "node",
+    "feature_category": "HOSPITAL",
+    "name": "Saidabad Maternity & General Clinic",
+    "latitude": 17.3602,
+    "longitude": 78.507,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_node_3001",
+    "element_type": "node",
+    "feature_category": "STREET_LIGHT",
+    "name": "High-Mast Sodium Streetlight - Saidabad Junction",
+    "latitude": 17.3645,
+    "longitude": 78.5088,
+    "tags": {
+      "highway": "street_lamp",
+      "lamp_type": "high_mast",
+      "lit": "yes"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_node_3002",
+    "element_type": "node",
+    "feature_category": "STREET_LIGHT",
+    "name": "LED Streetlamp Corridor - IS Sadan Transit Road",
+    "latitude": 17.362,
+    "longitude": 78.5125,
+    "tags": {
+      "highway": "street_lamp",
+      "lamp_type": "led",
+      "lit": "yes"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_node_3003",
+    "element_type": "node",
+    "feature_category": "STREET_LIGHT",
+    "name": "Solar Powered Light - Malakpet Metro Plaza",
+    "latitude": 17.3758,
+    "longitude": 78.491,
+    "tags": {
+      "highway": "street_lamp",
+      "source": "solar",
+      "lit": "yes"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_way_4001",
+    "element_type": "way",
+    "feature_category": "ROAD_SEGMENT",
+    "name": "Saidabad Main Road",
+    "latitude": 17.364,
+    "longitude": 78.5085,
+    "tags": {
+      "highway": "primary",
+      "lanes": "4",
+      "lit": "yes",
+      "surface": "asphalt"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_way_4002",
+    "element_type": "way",
+    "feature_category": "ROAD_SEGMENT",
+    "name": "Singareni Colony Inner Bypass",
+    "latitude": 17.365,
+    "longitude": 78.503,
+    "tags": {
+      "highway": "secondary",
+      "lanes": "2",
+      "lit": "no",
+      "surface": "paved"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  },
+  {
+    "osm_id": "osm_way_4003",
+    "element_type": "way",
+    "feature_category": "ROAD_SEGMENT",
+    "name": "IS Sadan to Saidabad Link Road",
+    "latitude": 17.368,
+    "longitude": 78.51,
+    "tags": {
+      "highway": "secondary",
+      "lanes": "2",
+      "lit": "yes",
+      "surface": "asphalt"
+    },
+    "source_name": "OpenStreetMap (ODbL)",
+    "license": "Open Database License (ODbL) 1.0",
+    "import_timestamp": "2026-11-03T03:05:45.660131+00:00"
+  }
+]

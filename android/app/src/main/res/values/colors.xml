@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand dark navy background matching assets/images/suraksha_splash.png -->
+    <color name="splash_navy">#0D1326</color>
+    <color name="splash_navy_dark">#0B1020</color>
+</resources>
+
