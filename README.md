@@ -603,27 +603,6 @@ flutter test
 - ✅ `WidgetSmokeTest` verifying full-screen interactive OSM map rendering.
 
 ---
-
-## 🏆 Hackathon Live Demonstration Walkthrough
-
-Follow this step-by-step walkthrough to present SURAKSHA AI to hackathon judges and evaluators:
-
-| Step | Action | What to Point Out |
-|---|---|---|
-| **1. Zero-Cost Open Cartography** | Open the app. Observe the full-screen OpenStreetMap of Hyderabad. | Point to the bottom-right pill: `© OpenStreetMap contributors`. Emphasize **zero paid Google Maps SDKs or billing keys**. |
-| **2. Live Photon Place Search** | Tap the top search bar, type `"Charminar"`, and tap the suggestion. | Highlight instant, debounced autocomplete via Komoot's open-source Photon API. The map smoothly animates to the destination. |
-| **3. Interactive Map Tap** | Tap any intersection or road directly on the map. | Notice the coordinate snackbar with an instant **"Plan Road Route"** trigger. |
-| **4. Road Routing via OSRM** | Tap **"Plan Road Route (OSRM)"**. | Observe that the polyline strictly follows actual drivable streets via Open Source Routing Machine (OSRM), not artificial straight lines. |
-| **5. Corridor Score & Evidence** | Tap the route card badge (e.g. `Score: 18.4/100 · Low Recorded Exposure`). | Open the transparent methodology screen showing verified incident counts, weighted density per km, and the exact public sources consulted. |
-| **6. Alternative Route Comparison** | Tap **"Route B: Interior Colony Shortcut"**. | Demonstrate route switching: the polyline updates, and the score reflects differing corridor hazards. |
-| **7. Citizen Report & Score Isolation** | Tap **"Report Hazard"**, select `POOR_STREET_LIGHTING`, enter details, and submit. | Show that the report receives ID `COM-REP-...` with `PENDING` status. Return to the map: **prove that the verified score has not changed**, preventing false alarm manipulation. |
-| **8. "My Reports" Dashboard** | Open the Navigation Drawer $\to$ **"My Reports"**. | View the citizen report timeline, showing the review lifecycle. |
-| **9. Action Voice Assistant ("Suraksha")** | Tap the microphone. Ask: *"Compare these routes using recent accident records."* | Listen to Suraksha call backend tools and speak the evidence-based answer aloud in Indian English. |
-| **10. Bilingual & Accessibility** | Open Drawer $\to$ **Settings**. Switch language to **తెలుగు (Telugu)** or toggle **Dark Mode**. | UI text instantly updates to Telugu with custom nighttime road contrast. |
-| **11. Turn-by-Turn Handoff** | On the route card, tap **"Navigate in Google Maps"**. | Demonstrate seamless Android intent handoff opening Google Maps with prefilled coordinates. |
-
----
-
 ## 🚨 Emergency Protocol & Responsible AI Disclaimer
 
 > [!CAUTION]
